@@ -29,3 +29,4 @@ libreport_packages:
 # satyr packages needed
 satyr_packages:
   - satyr
+  - satyr-python
